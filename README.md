@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Monique Marques.
 - 👀 I’m interested in programar.
-- 🌱 I’m currently learning c#, javascript, html, linguagem c.
+- 🌱 I’m currently learning Java, javascript, html, CSS, React JS.
 - 💞️ I’m looking to collaborate on fullstack.
 - 📫 How to reach me moniquey630@gmail.com
 
