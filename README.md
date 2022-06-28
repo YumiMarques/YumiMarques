@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Object-oriented programming in Java, JavaFX, JDBC, MySQL and MongoDB databases, Spring Boot, JPA and Hibenate.
 - 💞️ I’m looking to collaborate on backend team.
 - 📫 How to reach me e-mail or Linkedin.
-- 👩 Pronomes: She/Ela.
+- 👩 Pronomes: She/Ela
 
 ## I'm learning...
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/> 
