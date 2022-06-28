@@ -6,7 +6,7 @@
 - 📫 How to reach me e-mail or Linkedin.
 - 👩 Pronomes: She/Ela.
 
-![octocat-1656439620118](https://user-images.githubusercontent.com/89614020/176252385-7c3e214a-fcdc-4a83-853d-16bb06ab04e3.png)
+![octocat-1656437444214](https://user-images.githubusercontent.com/89614020/176253715-b8876081-897c-4277-af63-f1777a3b96eb.png)
 
 ## I'm learning...
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/> 
@@ -16,8 +16,7 @@
 <a href = "mailto:moniquey630@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.https://linkedin.com/in/monique-marques-da-silva-551045213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-<p>
-<p>
+<br />
 
 <div>
 <a href="https://github.com/YumiMarques">
