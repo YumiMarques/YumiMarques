@@ -6,7 +6,7 @@
 - 📫 How to reach me e-mail or Linkedin.
 - 👩 Pronomes: She/Ela.
 
-![octocat-1656437444214](https://user-images.githubusercontent.com/89614020/176253715-b8876081-897c-4277-af63-f1777a3b96eb.png)
+![octocat-1656437444214-removebg-preview](https://user-images.githubusercontent.com/89614020/176253938-8baac5bd-f650-4a93-9e3a-fcd306847b62.png)
 
 ## I'm learning...
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/> 
