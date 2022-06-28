@@ -22,7 +22,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YumiMarques&layout=compact&langs_count=7&theme=dracula"/> <img height="150em" 
 </div>
 
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/YumiMarques/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 YumiMarques/YumiMarques is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
