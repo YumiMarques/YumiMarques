@@ -6,10 +6,10 @@
 - 📫 How to reach me e-mail moniquey630@gmail.com or Linkedin.
 - 👩 Pronomes: She/Ela.
 
-## Estou aprendendo...
+## I'm learning...
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/> 
 
-## Contatos:
+## Contacts:
 <div>
 <a href = "mailto:moniquey630@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.https://linkedin.com/in/monique-marques-da-silva-551045213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
@@ -18,7 +18,7 @@
 
 <div>
 <a href="https://github.com/YumiMarques">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YumiMarques&layout=compact&langs_count=7&theme=dracula"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YumiMarques&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YumiMarques&layout=compact&langs_count=7&theme=dracula"/> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YumiMarques&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <!---
