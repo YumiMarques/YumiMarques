@@ -1,6 +1,5 @@
 ## 👋 Hello! Welcome to my Github profile.
 ### My name is Monique 😊
-- 👀 I’m interested in programar.
 - 🌱 I’m currently learning Object-oriented programming in Java, JavaFX, JDBC, MySQL and MongoDB databases, Spring Boot, JPA and Hibenate.
 - 💞️ I’m looking to collaborate on backend team.
 - 📫 How to reach me e-mail or Linkedin.
